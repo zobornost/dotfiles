@@ -1,0 +1,19 @@
+[helpers]
+
+[default]
+depends = []
+
+[default.files]
+bashrc = "~/.bashrc"
+cosmic = "~/cosmic"
+ghostty = "~/.config/ghostty/config"
+git = "~/.gitconfig"
+micro = "~/.config/micro"
+nix = "~/.config/nix"
+nvim = "~/.config/nvim"
+"starship.toml" = "~/.config/starship.toml"
+
+[default.variables]
+
+[settings]
+default_target_type = "automatic"
